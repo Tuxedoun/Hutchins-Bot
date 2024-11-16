@@ -1,16 +1,16 @@
 {
-  "prefix": "!",
+  "prefix": "/",
   "adminUIDs": [
-   "your uid"
+   "61552057602849"
   ],
   "moderatorUIDs": [
-    "your uid",
+    "61552057602849",
     "",
     ""
   ],
-  "botName": "bot name",
-  "ownerName": "Your name",
-  "facebookLink": "fb link",
+  "botName": "Adrian",
+  "ownerName": "Secret",
+  "facebookLink": "https://www.facebook.com/profile.php?id=61552057602849",
   "resend": false,
   "notilogs": true,
   "appstate": "./appstate.json",
